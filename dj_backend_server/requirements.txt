@@ -44,7 +44,7 @@ numpy==1.25.1
 openai==0.27.8
 openapi-schema-pydantic==1.2.4
 packaging==23.1
-Pillow==10.0.0
+Pillow==10.3.0
 pinecone-client==2.2.2
 portalocker==2.7.0
 prompt-toolkit==3.0.39
