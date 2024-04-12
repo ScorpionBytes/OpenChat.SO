@@ -19,7 +19,7 @@ click-repl==0.3.0
 cryptography==41.0.3
 dataclasses-json==0.5.14
 Django==4.2.3
-dnspython==2.4.1
+dnspython==2.6.1
 exceptiongroup==1.1.2
 frozenlist==1.4.0
 grpcio==1.56.2
